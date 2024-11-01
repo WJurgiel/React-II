@@ -19,8 +19,6 @@ export const AppNavbar = () => {
                 label="Lista TODO"
                 leftSection={<IconListCheck size="1rem" stroke={1.5}/>}
             />
-            {/*<Link to={'/todo'}>Lista TODO</Link> |*/}
-            {/*<Link to={'/todo/new'}>Dodaj</Link>*/}
         </div>
     )
 }
